@@ -9,13 +9,13 @@ function Social() {
     return (
         <div className="socials">
             <a href="https://github.com/Jordanb1997" target="_blank" rel="noopener noreferrer">
-                <GitHubIcon fontSize='large' />
+                <GitHubIcon className="bioicon" fontSize='large' />
             </a>
             <a href="https://www.linkedin.com/in/jordanb1997/" target="_blank" rel="noopener noreferrer">
-                <LinkedInIcon fontSize="large" />
+                <LinkedInIcon className="bioicon" fontSize="large" />
             </a>
             <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-                <PictureAsPdfIcon fontSize="large" />
+                <PictureAsPdfIcon className="bioicon" fontSize="large" />
             </a>
         </div>
     );
