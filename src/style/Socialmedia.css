@@ -1,15 +1,15 @@
-.socials
-{
-    display:flex;
-    justify-content:space-evenly;
+.socials {
+  display: flex;
+  justify-content: space-evenly;
 }
-a.socials
-{
-    color: #57bb8b;
-    padding:1vw;
+.PictureAsPdfIcon {
+  color: #57bb8b;
+}
+a.socials {
+  color: #57bb8b;
+  padding: 1vw;
 }
 a.socials,
-a:visited
-{
-    color:#57bb8b;
+a:visited {
+  color: #57bb8b;
 }
