@@ -1,0 +1,15 @@
+.socials
+{
+    display:flex;
+    justify-content:space-evenly;
+}
+a.socials
+{
+    color: #57bb8b;
+    padding:1vw;
+}
+a.socials,
+a:visited
+{
+    color:#57bb8b;
+}

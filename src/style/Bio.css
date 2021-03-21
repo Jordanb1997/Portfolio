@@ -1,0 +1,31 @@
+.aboutme {
+  justify-content: center;
+}
+.aboutme {
+  margin: 5vh 5vh 0;
+  padding: 1vh;
+  display: flex;
+}
+.aboutcontainer {
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+}
+.contacts {
+  padding: 2vh;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 25px;
+}
+.blurb {
+  padding: 1rem;
+  max-width: 500px;
+  word-wrap: normal;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.biop {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}

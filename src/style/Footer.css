@@ -1,0 +1,15 @@
+/* footer*/
+.footer {
+  margin-top: 10vh;
+  padding: 5vh;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #57bb8b;
+}
+.email,
+.footerCopy {
+  color: white;
+}

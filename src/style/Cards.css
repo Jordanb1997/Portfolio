@@ -1,0 +1,71 @@
+/* Projects and skills */
+
+.skill {
+  background-color: #ffffff;
+  margin: 1vw;
+  padding: 1vh;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px rgba(0, 0, 0, 0.19);
+}
+
+.skillpic {
+  width: 100%;
+  width: 200px;
+  height: 250px;
+  object-fit: contain;
+}
+.skillname {
+  margin: 0;
+  text-align: center;
+  padding: 10px;
+  font-family: "Raleway", sans-serif;
+}
+
+.title {
+  font-family: "Raleway", sans-serif;
+}
+
+/* css for seperator between image and name in skill card*/
+.divWrapper {
+  padding-bottom: 10px;
+}
+.seperator {
+  position: relative;
+  margin-top: 10px;
+  height: 1px;
+}
+.transparent:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 5%;
+  right: 5%;
+  width: 90%;
+  height: 1px;
+  background-image: linear-gradient(90deg, transparent, #303133, transparent);
+}
+
+/* project card css */
+.project {
+  max-width: 400px;
+  max-height: 400px;
+  margin: 10px;
+}
+.projectpic {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 25px;
+}
+.projecttext,
+h1 {
+  text-align: center;
+}
+.projecttext {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
