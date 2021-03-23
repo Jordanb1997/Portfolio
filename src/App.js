@@ -20,6 +20,7 @@ function App() {
       <p className="myprojects" id="myprojects">My Projects</p>
       <div className="myprojects" >
         <Project projectImage="/images/projects/todo.PNG" projectName="Todo List" projectLink="https://jordanb1997.github.io/todolist/" gitHubLink="https://github.com/Jordanb1997/todolist" projectBlurb="Organise yourself with a new Todo List" />
+        <Project projectImage="/images/projects/kanamatch.PNG" projectName="KanaMatch" projectLink="https://kanamatch.netlify.app/" gitHubLink="https://github.com/Jordanb1997/kanamatch" projectBlurb="Practive your Japanese (WIP)" />
       </div>
       <p className="frontend" id="frontend">Front-end Development</p>
       <div className="frontend">
