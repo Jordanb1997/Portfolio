@@ -14,7 +14,7 @@ function Social() {
             <a href="https://www.linkedin.com/in/jordanb1997/" target="_blank" rel="noopener noreferrer">
                 <LinkedInIcon className="bioicon" fontSize="large" />
             </a>
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Jordan-Bannister-Resume.pdf" target="_blank" rel="noopener noreferrer">
                 <PictureAsPdfIcon className="bioicon" fontSize="large" />
             </a>
         </div>
